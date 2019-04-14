@@ -28,4 +28,5 @@ def pizza_party(topping = "cheese")
     return "pepperoni"
   else
     return "cheese"
+  end
 end
