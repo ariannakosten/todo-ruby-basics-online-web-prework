@@ -13,7 +13,6 @@ def argue(phrase)
 end
 
 def greeting (greeting, name)
-  return (greeting, name)
 end
 
 def return_a_value
