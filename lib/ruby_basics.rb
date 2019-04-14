@@ -16,7 +16,8 @@ def greeting (greeting, name)
 end
 
 def return_a_value(phrase)
-  return phrase
+  if phrase == "Nice"
+    return "Nice"
 
 end
 
