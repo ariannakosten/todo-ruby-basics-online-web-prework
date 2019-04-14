@@ -21,8 +21,10 @@ def return_a_value(phrase)
   end
 end
 
-def last_evaluated_value(phrase = "expert")
-
+def last_evaluated_value(phrase)
+  if phrase == "expert"
+    return "expert"
+  end
 end
 
 def pizza_party(topping = "cheese")
