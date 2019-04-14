@@ -15,15 +15,12 @@ end
 def greeting (greeting, name)
 end
 
-def return_a_value(phrase)
-  if phrase == "Nice"
-    return "Nice"
-  end
+def return_a_value
+  
 end
 
-def last_evaluated_value(phrase)
-  return phrase
-  end
+def last_evaluated_value
+  
 end
 
 def pizza_party(topping = "cheese")
