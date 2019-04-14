@@ -24,5 +24,8 @@ def last_evaluated_value
 end
 
 def pizza_party(topping = "cheese")
-
+  if topping == "pepperoni"
+    return "pepperoni"
+  else
+    return "cheese"
 end
