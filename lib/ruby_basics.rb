@@ -2,7 +2,7 @@ def division(num1, num2)
  42/7
 end
 
-def assign_variable(value = "Bob")
+def assign_variable(value)
   if value == "Bob"
     puts "Bob"
   end
