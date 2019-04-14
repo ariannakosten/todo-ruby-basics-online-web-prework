@@ -4,7 +4,7 @@ end
 
 def assign_variable(value)
   if value == "Bob"
-    puts "Bob"
+    return "Bob"
   end
 end
 
