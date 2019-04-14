@@ -22,8 +22,7 @@ def return_a_value(phrase)
 end
 
 def last_evaluated_value(phrase)
-  if phrase == "expert"
-    return "expert"
+  return phrase
   end
 end
 
