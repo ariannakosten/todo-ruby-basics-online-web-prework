@@ -2,8 +2,8 @@ def division(num1, num2)
  42/7
 end
 
-def assign_variable(value)
-  puts "Bob"
+def assign_variable(value = "Bob")
+  
 end
 
 def argue
